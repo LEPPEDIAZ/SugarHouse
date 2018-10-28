@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: 28cceda518be3134f8debd2002f0b9b3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Amy_Rose.001
+    100002: Amy_Rose.002
+    100004: Amy_Rose.003
+    100006: Amy_Rose.004
+    100008: BezierCurve.001
+    100010: BezierCurve.002
+    100012: BezierCurve.003
+    100014: BezierCurve.005
+    100016: BezierCurve.010
+    100018: BezierCurve.014
+    100020: BezierCurve.020
+    100022: BezierCurve.023
+    100024: BezierCurve.024
+    100026: BezierCurve.027
+    100028: BezierCurve.029
+    100030: BezierCurve.030
+    100032: BezierCurve.032
+    100034: BezierCurve.035
+    100036: BezierCurve.036
+    100038: BezierCurve.040
+    100040: BezierCurve.041
+    100042: BezierCurve.044
+    100044: BezierCurve.045
+    100046: BezierCurve.047
+    100048: BezierCurve.050
+    100050: BezierCurve.052
+    100052: BezierCurve.053
+    100054: Cylinder
+    100056: Cylinder.001
+    100058: Cylinder.002
+    100060: Cylinder.003
+    100062: Cylinder.004
+    100064: Cylinder.005
+    100066: Cylinder.006
+    100068: //RootNode
+    100070: Plane
+    100072: Plane.001
+    100074: Sphere
+    100076: Sphere.001
+    100078: Sphere.002
+    100080: Sphere.003
+    100082: Sphere.004
+    100084: Sphere.005
+    100086: Sphere.007
+    100088: Sphere.008
+    100090: Torus
+    100092: Torus.001
+    100094: Torus.002
+    100096: Torus.003
+    400000: Amy_Rose.001
+    400002: Amy_Rose.002
+    400004: Amy_Rose.003
+    400006: Amy_Rose.004
+    400008: BezierCurve.001
+    400010: BezierCurve.002
+    400012: BezierCurve.003
+    400014: BezierCurve.005
+    400016: BezierCurve.010
+    400018: BezierCurve.014
+    400020: BezierCurve.020
+    400022: BezierCurve.023
+    400024: BezierCurve.024
+    400026: BezierCurve.027
+    400028: BezierCurve.029
+    400030: BezierCurve.030
+    400032: BezierCurve.032
+    400034: BezierCurve.035
+    400036: BezierCurve.036
+    400038: BezierCurve.040
+    400040: BezierCurve.041
+    400042: BezierCurve.044
+    400044: BezierCurve.045
+    400046: BezierCurve.047
+    400048: BezierCurve.050
+    400050: BezierCurve.052
+    400052: BezierCurve.053
+    400054: Cylinder
+    400056: Cylinder.001
+    400058: Cylinder.002
+    400060: Cylinder.003
+    400062: Cylinder.004
+    400064: Cylinder.005
+    400066: Cylinder.006
+    400068: //RootNode
+    400070: Plane
+    400072: Plane.001
+    400074: Sphere
+    400076: Sphere.001
+    400078: Sphere.002
+    400080: Sphere.003
+    400082: Sphere.004
+    400084: Sphere.005
+    400086: Sphere.007
+    400088: Sphere.008
+    400090: Torus
+    400092: Torus.001
+    400094: Torus.002
+    400096: Torus.003
+    2100000: Material.053
+    2100002: Material.052
+    2100004: Material.016
+    2100006: Material.014
+    2100008: Material.010
+    2100010: No Name
+    2100012: Material.050
+    2100014: Material.009
+    2100016: Material.006
+    2100018: Material.004
+    2100020: Material.054
+    2100022: Material.051
+    2100024: Material.002
+    2100026: Material
+    2100028: Rozowy_001_XSIPOLYCLS_rozowy_1
+    2100030: Rekawice_XSIPOLYCLS_rekawice
+    2100032: Sukienka_XSIPOLYCLS_sukienka
+    2100034: Rozowy_XSIPOLYCLS_rozowy
+    2100036: Skora_XSIPOLYCLS_skora
+    2100038: Zloto_XSIPOLYCLS_zloto
+    2100040: Material.001
+    2100042: Material.003
+    2100044: Material.005
+    2100046: Material.007
+    2100048: Material.012
+    2100050: Material.013
+    2100052: Material.015
+    2100054: Material.017
+    2100056: Material.018
+    2100058: Material.025
+    2100060: Material.029
+    2100062: Material.032
+    2100064: Material.033
+    2100066: Material.034
+    2100068: Material.035
+    2100070: Material.036
+    2100072: Material.037
+    2100074: Material.038
+    2100076: Material.039
+    2100078: Material.041
+    2100080: Material.042
+    2100082: Material.043
+    2100084: Material.044
+    2100086: Material.045
+    2100088: Material.046
+    2100090: Material.047
+    2100092: Material.048
+    2100094: Material.049
+    2300000: Amy_Rose.001
+    2300002: Amy_Rose.002
+    2300004: Amy_Rose.003
+    2300006: Amy_Rose.004
+    2300008: BezierCurve.001
+    2300010: BezierCurve.002
+    2300012: BezierCurve.003
+    2300014: BezierCurve.005
+    2300016: BezierCurve.010
+    2300018: BezierCurve.014
+    2300020: BezierCurve.020
+    2300022: BezierCurve.023
+    2300024: BezierCurve.024
+    2300026: BezierCurve.027
+    2300028: BezierCurve.029
+    2300030: BezierCurve.030
+    2300032: BezierCurve.032
+    2300034: BezierCurve.035
+    2300036: BezierCurve.036
+    2300038: BezierCurve.040
+    2300040: BezierCurve.041
+    2300042: BezierCurve.044
+    2300044: BezierCurve.045
+    2300046: BezierCurve.047
+    2300048: BezierCurve.050
+    2300050: BezierCurve.052
+    2300052: BezierCurve.053
+    2300054: Cylinder
+    2300056: Cylinder.001
+    2300058: Cylinder.002
+    2300060: Cylinder.003
+    2300062: Cylinder.004
+    2300064: Cylinder.005
+    2300066: Cylinder.006
+    2300068: Plane
+    2300070: Plane.001
+    2300072: Sphere
+    2300074: Sphere.001
+    2300076: Sphere.002
+    2300078: Sphere.003
+    2300080: Sphere.004
+    2300082: Sphere.005
+    2300084: Sphere.007
+    2300086: Sphere.008
+    2300088: Torus
+    2300090: Torus.001
+    2300092: Torus.002
+    2300094: Torus.003
+    3300000: Amy_Rose.001
+    3300002: Amy_Rose.002
+    3300004: Amy_Rose.003
+    3300006: Amy_Rose.004
+    3300008: BezierCurve.001
+    3300010: BezierCurve.002
+    3300012: BezierCurve.003
+    3300014: BezierCurve.005
+    3300016: BezierCurve.010
+    3300018: BezierCurve.014
+    3300020: BezierCurve.020
+    3300022: BezierCurve.023
+    3300024: BezierCurve.024
+    3300026: BezierCurve.027
+    3300028: BezierCurve.029
+    3300030: BezierCurve.030
+    3300032: BezierCurve.032
+    3300034: BezierCurve.035
+    3300036: BezierCurve.036
+    3300038: BezierCurve.040
+    3300040: BezierCurve.041
+    3300042: BezierCurve.044
+    3300044: BezierCurve.045
+    3300046: BezierCurve.047
+    3300048: BezierCurve.050
+    3300050: BezierCurve.052
+    3300052: BezierCurve.053
+    3300054: Cylinder
+    3300056: Cylinder.001
+    3300058: Cylinder.002
+    3300060: Cylinder.003
+    3300062: Cylinder.004
+    3300064: Cylinder.005
+    3300066: Cylinder.006
+    3300068: Plane
+    3300070: Plane.001
+    3300072: Sphere
+    3300074: Sphere.001
+    3300076: Sphere.002
+    3300078: Sphere.003
+    3300080: Sphere.004
+    3300082: Sphere.005
+    3300084: Sphere.007
+    3300086: Sphere.008
+    3300088: Torus
+    3300090: Torus.001
+    3300092: Torus.002
+    3300094: Torus.003
+    4300000: Sphere.008
+    4300002: Sphere.007
+    4300004: BezierCurve.001
+    4300006: BezierCurve.002
+    4300008: Cylinder.004
+    4300010: Torus.003
+    4300012: Cylinder.003
+    4300014: Sphere.004
+    4300016: Sphere.003
+    4300018: Plane
+    4300020: Torus
+    4300022: Sphere.002
+    4300024: Sphere
+    4300026: Cylinder
+    4300028: Amy_Rose.004
+    4300030: Amy_Rose.003
+    4300032: Amy_Rose.002
+    4300034: Amy_Rose.001
+    4300036: Cylinder.001
+    4300038: Sphere.001
+    4300040: Plane.001
+    4300042: Torus.001
+    4300044: Torus.002
+    4300046: Cylinder.002
+    4300048: Cylinder.005
+    4300050: Cylinder.006
+    4300052: Sphere.005
+    4300054: BezierCurve.003
+    4300056: BezierCurve.005
+    4300058: BezierCurve.010
+    4300060: BezierCurve.014
+    4300062: BezierCurve.020
+    4300064: BezierCurve.023
+    4300066: BezierCurve.024
+    4300068: BezierCurve.027
+    4300070: BezierCurve.029
+    4300072: BezierCurve.030
+    4300074: BezierCurve.032
+    4300076: BezierCurve.035
+    4300078: BezierCurve.036
+    4300080: BezierCurve.040
+    4300082: BezierCurve.041
+    4300084: BezierCurve.044
+    4300086: BezierCurve.045
+    4300088: BezierCurve.047
+    4300090: BezierCurve.050
+    4300092: BezierCurve.052
+    4300094: BezierCurve.053
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 535baece83be3e445a302a931eb3a7ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 4f56438a98b511745b0455987e332681, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: fb33137d23974cc439dc7448c9689289, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: ae55ffc6545da274db36677fc6939d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 0053519509cb3884fa0d537a36df7ae9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 8d9917ef24c223c4aa04a679afc0d40a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: a178fe3707c244945bd93280d3fa9ab4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 8b675a0a0c540a3429cbe2e942729fa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 13cdf3165154f5540bd8614bab1372b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: ac8a2cdb21606bb4799ff422b2c12b78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: 6e24ac8f7b539b045bd9ab96d292201e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {fileID: 2100000, guid: 9fa7ba9f0bf60a64f9948bc1748c2256, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.014
+    second: {fileID: 2100000, guid: 86d77eaa5fad2154c93f7726edd67c47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015
+    second: {fileID: 2100000, guid: 133041a5a33bb5f4180c561f6d27ae74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016
+    second: {fileID: 2100000, guid: e17acc94c47907747b053b24a3b19a97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: 918278b815408ad469602b95dea31a96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.018
+    second: {fileID: 2100000, guid: 64bbb95b3e488b648a8fb460ef0a459e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.025
+    second: {fileID: 2100000, guid: eaa362c25af035f4cb80472f12b6fbe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.029
+    second: {fileID: 2100000, guid: 052c07ff663b3da4489646bbc87f8cd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.032
+    second: {fileID: 2100000, guid: 8e332cc412f8c8247ac48fcdc4b321af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.033
+    second: {fileID: 2100000, guid: 150534854e1a1894b81c734d4264533c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.034
+    second: {fileID: 2100000, guid: a1142c2c4410ec848974b3b38b00fb03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.035
+    second: {fileID: 2100000, guid: 70370329f462d9e4b8de793063caa1d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.036
+    second: {fileID: 2100000, guid: 553b9d4e062114145ab36988dfbff1f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.037
+    second: {fileID: 2100000, guid: 81cc978364f3ade4595810768384705c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.038
+    second: {fileID: 2100000, guid: 4419b8326a367ec46b71e0c7b8b05223, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.039
+    second: {fileID: 2100000, guid: 8ac1a442f0e8b0c4e9f2ffe17f478c60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.041
+    second: {fileID: 2100000, guid: 30d398093cbb20a459af1a05be6eb05c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.042
+    second: {fileID: 2100000, guid: 97e476dabe1a0864ea73ac7cb9a24f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.043
+    second: {fileID: 2100000, guid: a680cfe47b0bb6a41873791a25d54e7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.044
+    second: {fileID: 2100000, guid: f89a2e4262ee1fc4ab2bb0b5aa523d08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.045
+    second: {fileID: 2100000, guid: fd892dee1a14e074d8c781f999e675ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.046
+    second: {fileID: 2100000, guid: 176299bb9fcebfb4b8090fbbc8926b9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.047
+    second: {fileID: 2100000, guid: e9e4971744d222a4f9595b9ef42b710a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.048
+    second: {fileID: 2100000, guid: 1be8c60be67530345a03289075d22eb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.049
+    second: {fileID: 2100000, guid: 9fb897f5ce05ed649ab21d41781f3c1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.050
+    second: {fileID: 2100000, guid: d5f0e700d73013447a799f4022dad604, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.051
+    second: {fileID: 2100000, guid: 4c7fc4bb58bc75446a89d3fbbfd7572e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.052
+    second: {fileID: 2100000, guid: 380cce764ae8cab4d8d6d9d2b52ae66e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.053
+    second: {fileID: 2100000, guid: 23e8878b1bd9a404ba208e65e0dc5bba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.054
+    second: {fileID: 2100000, guid: 7f7f3dd7aefbd064dbb5cb416ca2a476, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 5d7203e5045d9ca4ea7c7315bd322417, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rekawice_XSIPOLYCLS_rekawice
+    second: {fileID: 2100000, guid: e42b3c30016aedb41aa00ccb77b5e8a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rozowy_001_XSIPOLYCLS_rozowy_1
+    second: {fileID: 2100000, guid: c5a5e26010e36844ca16a943ea62c5e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rozowy_XSIPOLYCLS_rozowy
+    second: {fileID: 2100000, guid: 4e3000cfaacf2c84bb261f55c33896bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skora_XSIPOLYCLS_skora
+    second: {fileID: 2100000, guid: 8e90ddebbc2cee8429046a1d96d7a451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sukienka_XSIPOLYCLS_sukienka
+    second: {fileID: 2100000, guid: 841aea4bb0ec694449cf9c689cddf097, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zloto_XSIPOLYCLS_zloto
+    second: {fileID: 2100000, guid: 0479d8cd85a8d1b40b0d671c05318fb5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

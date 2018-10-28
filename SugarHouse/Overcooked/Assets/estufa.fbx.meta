@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: baf1d661a5e111141ad61b67b4071ff7
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BackLight
+    100002: Box
+    100004: Box3
+    100006: Box4
+    100008: Box6
+    100010: Capsule1
+    100012: Capsule1.002
+    100014: Capsule2
+    100016: Capsule2.001
+    100018: Capsule2.002
+    100020: Capsule2.003
+    100022: Capsule2.004
+    100024: //RootNode
+    100026: FillLight
+    100028: Plane
+    100030: Plane1
+    100032: Torus
+    100034: Torus1
+    100036: Torus2
+    100038: Torus3
+    400000: BackLight
+    400002: Box
+    400004: Box3
+    400006: Box4
+    400008: Box6
+    400010: Capsule1
+    400012: Capsule1.002
+    400014: Capsule2
+    400016: Capsule2.001
+    400018: Capsule2.002
+    400020: Capsule2.003
+    400022: Capsule2.004
+    400024: //RootNode
+    400026: FillLight
+    400028: Plane
+    400030: Plane1
+    400032: Torus
+    400034: Torus1
+    400036: Torus2
+    400038: Torus3
+    2100000: 0
+    2100002: d6d4d4
+    2100004: 606060
+    2100006: a8701c
+    2100008: 141aad
+    2100010: 473d3d
+    2100012: 3f3f3f
+    2100014: 606060.002
+    2100016: 606060.003
+    2100018: 606060.004
+    2100020: 606060.005
+    2100022: 606060.006
+    2300000: Box
+    2300002: Box3
+    2300004: Box4
+    2300006: Box6
+    2300008: Capsule1
+    2300010: Capsule1.002
+    2300012: Capsule2
+    2300014: Capsule2.001
+    2300016: Capsule2.002
+    2300018: Capsule2.003
+    2300020: Capsule2.004
+    2300022: Plane
+    2300024: Plane1
+    2300026: Torus
+    2300028: Torus1
+    2300030: Torus2
+    2300032: Torus3
+    3300000: Box
+    3300002: Box3
+    3300004: Box4
+    3300006: Box6
+    3300008: Capsule1
+    3300010: Capsule1.002
+    3300012: Capsule2
+    3300014: Capsule2.001
+    3300016: Capsule2.002
+    3300018: Capsule2.003
+    3300020: Capsule2.004
+    3300022: Plane
+    3300024: Plane1
+    3300026: Torus
+    3300028: Torus1
+    3300030: Torus2
+    3300032: Torus3
+    4300000: Torus3
+    4300002: Box
+    4300004: Capsule2
+    4300006: Box4
+    4300008: Plane1
+    4300010: Box3
+    4300012: Capsule1
+    4300014: Box6
+    4300016: Torus2
+    4300018: Torus
+    4300020: Torus1
+    4300022: Plane
+    4300024: Capsule1.002
+    4300026: Capsule2.001
+    4300028: Capsule2.002
+    4300030: Capsule2.003
+    4300032: Capsule2.004
+    10800000: BackLight
+    10800002: FillLight
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

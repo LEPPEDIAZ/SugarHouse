@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 4ea6ad7ae0315644f812662453a4d738
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: cd4f5ec37c35dd249bf2a5ab23e801b4
+  - enabled: 1
+    path: Assets/Scenes/SingleMultiSelection.unity
+    guid: 646c09d500f52e240903f2a16bca215c
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: a134bcafd0ecb214e88a40ca75e7da99
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal2.unity
+    guid: 880680925a8849a469315106f2e15f39
+  - enabled: 1
+    path: Assets/Scenes/GameOver-BadGame.unity
+    guid: 9972baa9ceffb2e49bdc265938c9cd38
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer.unity
+    guid: a6bcf4da550549845ad7a6e9257bce98
+  - enabled: 1
+    path: Assets/Scenes/SampleScene 1.unity
+    guid: 1121c4d2b3b06c245bcab3a99c3edd2e
+  - enabled: 1
+    path: Assets/Scenes/SeleccionPersonajes.unity
+    guid: cd270970d08c48a48b3ee193e9216d1b
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 9b0b67845a9c57043a15a7d1b64f3d09
+  m_configObjects: {}

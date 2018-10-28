@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: ffba026825883fd44a4a3d5a7b95a436
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: LidValve
+    100002: Pot
+    100004: PotBottom
+    100006: PotHandleLeft
+    100008: PotHandleRight
+    100010: PotInside
+    100012: PotInsideBottom
+    100014: PotLogo
+    100016: //RootNode
+    100018: Sphere
+    100020: Sphere.001
+    100022: Sphere.002
+    100024: Sphere.003
+    100026: Sphere.004
+    100028: Sphere.005
+    100030: Sphere.006
+    100032: Sphere.007
+    100034: Sphere.008
+    100036: Sphere.009
+    400000: LidValve
+    400002: Pot
+    400004: PotBottom
+    400006: PotHandleLeft
+    400008: PotHandleRight
+    400010: PotInside
+    400012: PotInsideBottom
+    400014: PotLogo
+    400016: //RootNode
+    400018: Sphere
+    400020: Sphere.001
+    400022: Sphere.002
+    400024: Sphere.003
+    400026: Sphere.004
+    400028: Sphere.005
+    400030: Sphere.006
+    400032: Sphere.007
+    400034: Sphere.008
+    400036: Sphere.009
+    2100000: Material.002
+    2100002: Material.001
+    2100004: PotBottom
+    2100006: PotInsideDark
+    2100008: MetalChrome
+    2100010: Material.003
+    2100012: Material.004
+    2100014: Material.005
+    2100016: Material.006
+    2100018: Material.007
+    2100020: Material.008
+    2100022: Material.009
+    2100024: Material.010
+    2300000: LidValve
+    2300002: Pot
+    2300004: PotBottom
+    2300006: PotHandleLeft
+    2300008: PotHandleRight
+    2300010: PotInside
+    2300012: PotInsideBottom
+    2300014: PotLogo
+    2300016: Sphere
+    2300018: Sphere.001
+    2300020: Sphere.002
+    2300022: Sphere.003
+    2300024: Sphere.004
+    2300026: Sphere.005
+    2300028: Sphere.006
+    2300030: Sphere.007
+    2300032: Sphere.008
+    2300034: Sphere.009
+    3300000: LidValve
+    3300002: Pot
+    3300004: PotBottom
+    3300006: PotHandleLeft
+    3300008: PotHandleRight
+    3300010: PotInside
+    3300012: PotInsideBottom
+    3300014: PotLogo
+    3300016: Sphere
+    3300018: Sphere.001
+    3300020: Sphere.002
+    3300022: Sphere.003
+    3300024: Sphere.004
+    3300026: Sphere.005
+    3300028: Sphere.006
+    3300030: Sphere.007
+    3300032: Sphere.008
+    3300034: Sphere.009
+    4300000: Sphere.001
+    4300002: Sphere
+    4300004: PotInsideBottom
+    4300006: PotInside
+    4300008: PotLogo
+    4300010: PotHandleRight
+    4300012: PotHandleLeft
+    4300014: Pot
+    4300016: PotBottom
+    4300018: LidValve
+    4300020: Sphere.002
+    4300022: Sphere.003
+    4300024: Sphere.004
+    4300026: Sphere.005
+    4300028: Sphere.006
+    4300030: Sphere.007
+    4300032: Sphere.008
+    4300034: Sphere.009
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

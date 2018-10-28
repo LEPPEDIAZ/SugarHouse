@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pot
+  - pot1
+  - hands
+  - olla
+  - mesa
+  - Item
+  - Item2
+  - Cortar
+  - mesa2
+  - cocido
+  - warning
+  - PickUp
+  - Listo
+  - Banano
+  - estufa2
+  - Limpiador
+  - cleaner
+  - Extinguidor
+  - estufa-segundacomida
+  - cleanertwo
+  - Elote
+  - EloteDespues
+  - fuego
+  - impedimiento
+  - manzana
+  - Plato
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
